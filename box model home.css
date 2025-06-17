@@ -73,8 +73,9 @@ body{
 	border: 1px solid #ccc;
 	border-radius: 10px;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-	top: 2px;
+	top: 25px;
 	left:5px;
+	
     	float: lefft;
     text-align: left;
 }
