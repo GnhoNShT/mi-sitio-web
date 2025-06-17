@@ -85,9 +85,9 @@ body{
 	border: 1px solid #ccc;
 	border-radius: 10px;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    right: 215px;
     top: 25px;
     text-align: left;
+	float: left;
 }
 
 .menu-desplegable li {
