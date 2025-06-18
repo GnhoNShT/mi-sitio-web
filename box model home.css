@@ -684,16 +684,16 @@ h1{
     #licenciaturalogo{
         margin-right: 1%;
         width: 43%;
-        height: 46%;
+        height: 55%;
     }
     #preparatorialogo{
         margin-right: 0;
         width: 43%;
-        height: 46%;
+        height: 55%;
     }
         #imp{
         margin-right: 14.8%;
-        margin-left8: 11%;
+        margin-left: 11%;
     }
         #titulo-niveles p{
             font-size: 130%;
@@ -709,8 +709,12 @@ h1{
     #formm{
         width: 100%;
         margin-left: 0;
-        margin-bottom: 40px;
+        margin-bottom: 0;    
     }
+	#cdf{
+		margin-top:0;
+	}
+
     #cintaev{
         justify-self: normal;
         margin-left: 6%;
