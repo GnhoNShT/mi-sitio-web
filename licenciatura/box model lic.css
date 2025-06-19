@@ -513,9 +513,6 @@ footer{
     #celular{
         display: block;
     }
-    #celular img{
-        width :30%;
-    }
     .menu-flotante {
         display: block;
         float: right;
