@@ -360,6 +360,10 @@ footer{
 #f4{
     display: none;
     text-align: center;
+	color:white;
+}
+#f4 a{
+	color:white;
 }
 #pie{
     display: flex;
