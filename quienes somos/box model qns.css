@@ -49,6 +49,9 @@ a{
 }
 
 /*celular*/
+#celulares-exclusivo{
+	display:none
+}
 #celular{
     display: none;
 }
