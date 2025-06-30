@@ -402,6 +402,9 @@ h1{
         display: none;
         text-align: center;
     }
+    #f4 a{
+	color :withe;
+    }
     #pie{
         display: flex;
     }
