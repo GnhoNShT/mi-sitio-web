@@ -591,9 +591,13 @@ footer{
         width: 100%;
         height: 85px;
     }
+    #f4 a {
+	color:withe;
+    }
     #f4 h2{
         font-size: 20px;
         margin:10px;
+	color:white;
     }
     #iglogo{
         width: 11%;
