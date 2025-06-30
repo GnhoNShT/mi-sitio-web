@@ -631,11 +631,12 @@ footer{
         width: 100%;
         height: 85px;
     }
-	#f4 a{
-		color:withe;
+    #f4 a{
+	color:withe;
 	}
     #f4 h2{
         font-size: 20px;
+	color:withe;
         margin:10px;
     }
     #iglogo{
